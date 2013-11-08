@@ -4,13 +4,8 @@
 	
 }
 .fundo{
- 	position:absolute;
-	left:50%;
-	margin-left:-384px;
-	margin-top:-500px;
-	width:768px;
-	height:200%;
-	background-color:#efeeea;
+ 	background-color:#efedea;
+    	height:200%;
 	
 }
 .borderAmarela{

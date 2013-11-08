@@ -6,9 +6,9 @@
 .fundo{
  	position:absolute;
 	left:50%;
-	top:50%;
+	top:0%;
 	margin-left:-384px;
-	margin-top:0px;
+	margin-top:-500px;
 	width:768px;
 	height:200%;
 	background-color:#efeeea;
@@ -16,7 +16,7 @@
 }
 .borderAmarela{
 	background:#e9e611;
-	position:fixed;
+	position:absolute;
 	width:10%;
 	height:7px;
 	float:left;
@@ -24,14 +24,14 @@
 
 .borderCinza{
 	background:#9a9c9a;
-	position:fixed;
+	position:absolute;
 	width:97%;
 	height:7px;
 }
 
 .borderRosa{
 	background:#f5886c;
-	position:fixed;
+	position:absolute;
 	width:6.1%;
 	height:7px;
 	float:right;

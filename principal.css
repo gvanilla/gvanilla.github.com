@@ -4,12 +4,13 @@
 	
 }
 .fundo{
- 	background-color:#efedea;
-    	height:200%;
-    	left:50%;
+ 	left:50%;
+        margin-left:-384px;
+        margin-top:-500px;
         width:768px;
+        height:200%;
         background-color:#efeeea;
-	
+
 }
 .borderAmarela{
 	background:#e9e611;

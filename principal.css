@@ -16,7 +16,7 @@
 }
 .borderAmarela{
 	background:#e9e611;
-	position:absolute;
+	position:fixed;
 	width:10%;
 	height:7px;
 	float:left;
@@ -24,14 +24,14 @@
 
 .borderCinza{
 	background:#9a9c9a;
-	position:absolute;
+	position:fixed;
 	width:97%;
 	height:7px;
 }
 
 .borderRosa{
 	background:#f5886c;
-	position:absolute;
+	position:fixed;
 	width:6.1%;
 	height:7px;
 	float:right;

@@ -82,7 +82,7 @@
 
 .triangulo{
         position:fixed;
-        float:left;
+        padding:left;
         top:150px;
 }
 

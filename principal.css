@@ -49,6 +49,15 @@
         font-family:'Lekton', sans-serif;
         color:#ef5851;
 }
+.email{
+	font-family:'Lekton', sans-serif;
+        float:left;
+        padding-left:20px;
+        line-height:35px;
+        font-size:14px;
+        color:#6d6e71;
+		       
+}
 
 .data{
         float:right;
@@ -69,16 +78,6 @@
         border-width:1px;
         border-color:#f5886c;
 
-}
-
-.email{
-	font-family:'Lekton', sans-serif;
-        float:left;
-        padding-left:20px;
-        line-height:35px;
-        font-size:14px;
-        color:#6d6e71;
-		       
 }
 
 .triangulo{

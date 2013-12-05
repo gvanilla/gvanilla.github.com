@@ -6,8 +6,7 @@
 .fundo{
         background-color:#efedea;
         height:180%;
-		align:center;
-		
+
 }
 
 .borderAmarela{
@@ -72,6 +71,16 @@
 
 }
 
+.email{
+	font-family:'Lekton', sans-serif;
+        float:left;
+        padding-left:20px;
+        line-height:35px;
+        font-size:14px;
+        color:#6d6e71;
+		       
+}
+
 .triangulo{
         position:absolute;
         float:left;
@@ -87,15 +96,7 @@
         color:#6d6e71;
 }
 
-.email{
-		font-family:'Lekton', sans-serif;
-        float:left;
-        padding-left:20px;
-        line-height:35px;
-        font-size:14px;
-        color:#6d6e71;
-		       
-}
+
 
 .tel{
         font-family:'Lekton', sans-serif;

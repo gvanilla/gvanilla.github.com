@@ -81,7 +81,7 @@
 }
 
 .triangulo{
-        position:absolute;
+        position:fixed;
         float:left;
         top:150px;
 }

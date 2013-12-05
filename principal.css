@@ -1,220 +1,222 @@
 * {
     margin: 0;
     padding: 0;
-	
+        
 }
 .fundo{
-	background-color:#efedea;
-    	height:200%;
+        background-color:#efedea;
+        height:180%;
+		align:center;
+		
 }
 
 .borderAmarela{
-	background:#e9e611;
-	position:absolute;
-	width:10%;
-	height:7px;
-	float:left;
+        background:#e9e611;
+        position:absolute;
+        width:10%;
+        height:7px;
+        float:left;
 }
 
 .borderCinza{
-	background:#9a9c9a;
-	position:absolute;
-	width:97%;
-	height:7px;
+        background:#9a9c9a;
+        position:absolute;
+        width:97%;
+        height:7px;
 }
 
 .borderRosa{
-	background:#f5886c;
-	position:absolute;
-	width:6.1%;
-	height:7px;
-	float:right;
-	left:97%;
+        background:#f5886c;
+        position:absolute;
+        width:6.1%;
+        height:7px;
+        float:right;
+        left:97%;
 }
 
 .topo{
-	width:20px;
-	height:7px;
-	position:absolute;
-	top:38px;
-	left:50px;
+        width:20px;
+        height:7px;
+        position:absolute;
+        top:38px;
+        left:50px;
 }
 
 .nome{
-	float:right;
-	top:40px;
-	left:105px;;
-	position:absolute;
-	font-family:'Lekton', sans-serif;
-	color:#ef5851;
+        float:right;
+        top:40px;
+        left:105px;;
+        position:absolute;
+        font-family:'Lekton', sans-serif;
+        color:#ef5851;
 }
 
 .data{
-	float:right;
-	padding-top:40px;
-	padding-right:30px;
-	font-family:'Lekton', sans-serif;
-	color:#ef5851;
-	font-size:13px;
-	
+        float:right;
+        padding-top:40px;
+        padding-right:30px;
+        font-family:'Lekton', sans-serif;
+        color:#ef5851;
+        font-size:13px;
+        
 }
 
 .linhaDivisoria{
-	position:absolute;
-	top:80px;
-	right:20px;
-	left:50px;
-	border-style:dotted;
-	border-width:1px;
-	border-color:#f5886c;
+        position:absolute;
+        top:80px;
+        right:20px;
+        left:50px;
+        border-style:dotted;
+        border-width:1px;
+        border-color:#f5886c;
 
 }
 
 .triangulo{
-	position:absolute;
-	float:left;
-	top:150px;
+        position:absolute;
+        float:left;
+        top:150px;
 }
 
 .cargo{
-	float:left;
-	padding-top:150;
-	padding-left:140px;
-	font-family: 'Source Sans Pro', sans-serif;
-	font-size:30px;
-	color:#6d6e71;
+        float:left;
+        padding-top:150;
+        padding-left:140px;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size:30px;
+        color:#6d6e71;
 }
 
 .email{
-	float:left;
-	padding-left:20px;
-	line-height:35px;
-	font-size:14px;
-	color:#6d6e71;
-
-	
+		font-family:'Lekton', sans-serif;
+        float:left;
+        padding-left:20px;
+        line-height:35px;
+        font-size:14px;
+        color:#6d6e71;
+		       
 }
 
 .tel{
-	float:left;
-	padding-left:40px;
-	line-height:0px;
-	font-size:14px;
+        font-family:'Lekton', sans-serif;
+		float:left;
+        padding-left:40px;
+        line-height:0px;
+        font-size:14px;
+		color:#ee2439;
 
 }
 
 .bola{
-	position:absolute;
-	float:right;
-	right:0px;
-	top:140px;
+        position:absolute;
+        float:right;
+        right:0px;
+        top:140px;
 }
 
 .numerotitulo01{
-	font-family:'Lekton', sans-serif;
-	font-size:14px;
-	color:#acc7ca;
-	padding-left:220px;
+        font-family:'Lekton', sans-serif;
+        font-size:14px;
+        color:#acc7ca;
+        padding-left:220px;
 }
 
 .tituloformacao{
-	font-family: 'Oranienbaum', serif;
-	font-size:60px;
-	color:#9a9c9a;
-	padding-top:450px;
-	padding-left:50px;
+        font-family: 'Oranienbaum', serif;
+        font-size:60px;
+        color:#9a9c9a;
+        padding-top:450px;
+        padding-left:50px;
 }
 .tituloexperiencia{
-	font-family: 'Oranienbaum', serif;
-	font-size:60px;
-	color:#9a9c9a;
-	padding-top:50px;
+        font-family: 'Oranienbaum', serif;
+        font-size:60px;
+        color:#9a9c9a;
+        padding-top:50px;
 }
 
 
 .titulo02{
-	font-family:'Lekton', sans-serif;
-	font-size:16px;
-	color:#2a655f;
-	padding-top:20px;
-	padding-left:50px;
+        font-family:'Lekton', sans-serif;
+        font-size:16px;
+        color:#2a655f;
+        padding-top:20px;
+        padding-left:50px;
 }
 
 .texto01{
-	font-family:'Lekton', sans-serif;
-	font-size:16px;
-	color:#48938b;
-	padding-top:5px;
-	padding-left:50px;
-	line-height:20px;
+        font-family:'Lekton', sans-serif;
+        font-size:16px;
+        color:#48938b;
+        padding-top:5px;
+        padding-left:50px;
+        line-height:20px;
 }
 
 .behanceCargo{
-	position:absolute;
-	float:right;
-	padding-left:75%;
-	
+        position:absolute;
+        float:right;
+        padding-left:75%;
+        
 }
 
 .linhaDivisoria02{
-	position:absolute;
-	top:1120px;
-	right:20px;
-	left:50px;
-	border-style:dotted;
-	border-width:1px;
-	border-color:#f5886c;
+        position:absolute;
+        top:1120px;
+        right:20px;
+        left:50px;
+        border-style:dotted;
+        border-width:1px;
+        border-color:#f5886c;
 
 }
 
 .titulocursos{
-	font-family: 'Oranienbaum', serif;
-	font-size:60px;
-	color:#9a9c9a;
-	padding-top:50px;
-	
+        font-family: 'Oranienbaum', serif;
+        font-size:60px;
+        color:#9a9c9a;
+        padding-top:50px;
+        
 }
 .textoingles{
-	font-family:'Lekton', sans-serif;
-	font-size:16px;
-	color:#2a655f;
-	padding-top:40px;
-	padding-left:50px;
-	line-height:20px;
+        font-family:'Lekton', sans-serif;
+        font-size:16px;
+        color:#2a655f;
+        padding-top:40px;
+        padding-left:50px;
+        line-height:20px;
 }
-	
+        
 .titulofatos{
-	font-family: 'Oranienbaum', serif;
-	font-size:60px;
-	color:#9a9c9a;
-	padding-top:50px;
-	
-}	
-	
+        font-family: 'Oranienbaum', serif;
+        font-size:60px;
+        color:#9a9c9a;
+        padding-top:50px;
+        
+}        
+        
 #blog{
-	font-family:'Lekton', sans-serif;
-	font-size:16px;
-	color:#48938b;
+        font-family:'Lekton', sans-serif;
+        font-size:16px;
+        color:#48938b;
 }
 
 a:link{
-	text-decoration:none;
-	color:#ee2439;
+        text-decoration:none;
+        color:#ee2439;
 }
 
 a:visited{
-	text-decoration:none;
-	color:#ee2439;
+        text-decoration:none;
+        color:#ee2439;
 }
 
 a:hover{
-	text-decoration:none;
-	color:#cddd4c;
+        text-decoration:none;
+        color:#cddd4c;
 }
 
 a:active {
-	text-decoration:none;
-	color:#ee2439;
+        text-decoration:none;
+        color:#ee2439;
 }
-
-
